@@ -66,3 +66,4 @@ if __name__ == "__main__":
 # when commiting
 # git add .
 # git commit -m "my message"
+# git push
